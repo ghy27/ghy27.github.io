@@ -3,7 +3,7 @@
 Currently, I am a second year PhD student at the Distributed Control LAB (DCLAB), supervised by Seokcheon, Lee. My research focuses on using operation research approach to optimize drone delivery.
 
 ### Publication
-[Truck-drone hybrid delivery routing: Payload-energy dependency and No-Fly zones](https://www.sciencedirect.com/science/article/pii/S0925527319300106).
+Truck-drone hybrid delivery routing: Payload-energy dependency and No-Fly zones
 Ho Young Jeong, Byung Duk Song, Seokcheon Lee
 International Journal of Production Economics, 2019
 
